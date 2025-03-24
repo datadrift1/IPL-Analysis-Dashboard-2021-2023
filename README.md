@@ -1,4 +1,5 @@
 🏏 IPL Performance Analysis (2021-2023) & Predictions for 2024 📊
+
 🔍 Project Overview
 This project provides an in-depth data-driven analysis of IPL seasons from 2021 to 2023, offering valuable insights into player performances, team strategies, and match trends. The analysis was conducted using Power BI, presenting interactive visualizations and predictive insights for the upcoming IPL 2024 season.
 
